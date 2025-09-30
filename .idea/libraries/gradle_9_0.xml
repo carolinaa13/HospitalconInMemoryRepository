@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-9.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../gradle/gradle-9.0.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
